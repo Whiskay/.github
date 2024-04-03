@@ -10,7 +10,7 @@ This account is Collection of Personal projects.
 
 #### WebGL Fluid Simulation
   - [Github](https://github.com/Discardy/WebGL) 
-  - [Demo](https://webgl.noice.app/)
+  - [Demo](https://discardy.github.io/WebGLFluid/)
   - Credits: [@PavelDoGreat](https://github.com/PavelDoGreat/) 
 
 ## Useful resources
